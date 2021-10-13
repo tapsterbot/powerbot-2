@@ -1,0 +1,14 @@
+{
+  "name": "powerbot-2",
+  "version": "2.0.0",
+  "description": "",
+  "main": "powerbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Huggins",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^2.1.0"
+  }
+}
